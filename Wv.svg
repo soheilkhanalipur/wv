@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3200"
+   height="2000"
+   viewBox="0 0 846.66664 529.16668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Wv.svg"
+   inkscape:export-filename="/home/soheil/Documents/W.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="2000px"
+     inkscape:zoom="0.24258858"
+     inkscape:cx="1615.9046"
+     inkscape:cy="1020.2459"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="46.554077"
+       y="81.563072"
+       width="3151.3511"
+       height="2099.7849"
+       id="rect49393" />
+    <filter
+       inkscape:label="In and Out"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Inner colorized shadow, outer black shadow"
+       style="color-interpolation-filters:sRGB"
+       id="filter65955"
+       x="-0.0064964441"
+       y="-0.007710939"
+       width="1.0163765"
+       height="1.019438">
+      <feGaussianBlur
+         result="result0"
+         in="SourceAlpha"
+         stdDeviation="4"
+         id="feGaussianBlur65949" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="result4"
+         id="feOffset65951" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result4"
+         operator="xor"
+         result="result3"
+         id="feComposite65953" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e0f3ff;fill-opacity:1;stroke-width:0.334674"
+       id="rect926"
+       width="846.66669"
+       height="529.16669"
+       x="0"
+       y="-7.1054274e-15"
+       rx="0"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,202.77045,-19.33084)"
+       id="text49391"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1733.33px;line-height:1.25;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded Light';white-space:pre;shape-inside:url(#rect49393);fill:#ff9000;fill-opacity:1;filter:url(#filter65955)"><tspan
+         x="46.554688"
+         y="1681.2048"
+         id="tspan78513">W</tspan></text>
+  </g>
+</svg>
